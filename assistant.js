@@ -2,7 +2,7 @@
 const { createClient } = supabase;
 const supabaseClient = createClient(
     'https://mxemardtyidrhfsnxvad.supabase.co',
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im14ZW1hcmR0eWlkcmhmc254dmFkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI4NzkwMzQsImV4cCI6MjA4ODQ1NTAzNH0.u1eFWdodluIqZQ-_Cr5IzSNMNUE1H4GQU-oDYT4Z1oo'
+    'sb_publishable_zp7wyQP8LswdF8bNPbTUzA_ZTPzEMCS'
 );
 
 // ==================== N8N CONFIG ====================
